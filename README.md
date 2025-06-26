@@ -1,4 +1,5 @@
 # demo
 this is my first git repositry
 <br>
-Author - seema
+Author - Seema Sinhmar
+
